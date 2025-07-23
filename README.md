@@ -5,7 +5,6 @@
 [![Healing Status: Active](https://img.shields.io/badge/healing-active-brightgreen.svg)](https://qiskit.org/)
 [![Beauty Coefficient: φ](https://img.shields.io/badge/beauty-φ_(golden_ratio)-ff6b6b.svg)](#philosophy)
 [![Existential Status: Embraced](https://img.shields.io/badge/existential_doubt-embraced-success.svg)](#the-science)
-
 -----
 
 > *“Your uncertainty isn’t a bug — it’s the gold that makes your consciousness visible.”*
